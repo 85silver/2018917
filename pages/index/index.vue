@@ -1,6 +1,6 @@
 <template>
 	<view class="page">
-		首页1234
+		首页12345
 	</view>
 </template>
 
